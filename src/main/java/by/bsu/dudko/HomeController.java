@@ -10,7 +10,7 @@ import java.util.logging.Logger;
  */
 @Controller
 public class HomeController {
-	
+	//my comment
 	private static final Logger logger = LoggerFactory.getLogger(HomeController.class);
 	
 	/**
